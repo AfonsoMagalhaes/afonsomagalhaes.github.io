@@ -1,0 +1,54 @@
+body {
+	font-family: "Open Sans" !important;
+	background-color: #F1FAEE !important;
+	color: #000 !important;
+	height: 100vh;
+}
+
+h1, h4 { 
+	font-family: "Caveat";
+}
+
+h5 {
+	color: #457B9D;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+a:hover {
+	text-decoration: underline !important;
+}
+
+strong {
+	font-family: "Open Sans";
+	font-style: italic;
+}
+
+.profile-img {
+	width: 50%;
+	max-width: 250px !important;
+}
+
+.contacts {
+	background-color: #A8DADC;
+	border: 1px solid #457B9D;
+}
+
+.email {
+	color: black !important;
+}
+
+.project {
+	width: auto;
+	max-width: 600px;
+}
+
+.project-link {
+	color: #E63946 !important;
+}
+
+.project-link-icon {
+	font-size: 2rem;
+}
